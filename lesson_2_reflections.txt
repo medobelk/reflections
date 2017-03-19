@@ -1,7 +1,12 @@
-What happens when you initialize a repository? Why do you need to do it?
+﻿What happens when you initialize a repository? Why do you need to do it?
+
+it creates a new git empty rep for version control of upcoming project
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+working dir is where all files are tracked or not. repository is sam dir but checking for commits and making history and other cool git stuff.
+staging are provides to commit files from work dir to rep one by one or in a bulk.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
