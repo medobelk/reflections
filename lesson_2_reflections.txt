@@ -11,13 +11,23 @@ staging are provides to commit files from work dir to rep one by one or in a bul
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+git add allows you to put file in staging are and then u can change the files ready to commit and if u add wrong file u can detach it
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+sits like experimental coding or another ver or adding that might be not included in master branch for a while
+
 How do the diagrams help you visualize the branch structure?
+
+it show from what commit branch starts and what commits are maded
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+file from both branches are compared and rewrited to 1 legit version
+
 What are the pros and cons of GitтАЩs automatic merging vs. always doing merges
 manually?
+
+saving a lot of time
